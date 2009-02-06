@@ -2,7 +2,7 @@
 
 ## What
 
-Please wait...
+This plugin protect your memcached to never try to use a key greater than 250 characters(memcached limitation). It is very usefull when your key is dynamically defined.
 
 ## Installing
 
