@@ -1,0 +1,42 @@
+# MemcachedProtected
+
+## What
+
+Please wait...
+
+## Installing
+
+    ruby script/plugin install git://github.com/tapajos/memcached_protected.git
+
+## Dependencies
+
+* Rails
+
+## Version
+
+MemcachedProtected version 0.1
+
+## License
+
+This code is free to be used under the terms of the [MIT license][mit].
+
+## Contact
+
+Comments are welcome. Send your feedback through [this page][co]
+
+## Author
+
+[Marcos Tapajós][mt]  
+
+## Shameless advertisement
+
+This plugin is brought to you by [Improve It][ii].
+
+[![Improve It][logo]][ii]
+
+[logo]: http://www.improveit.com.br/images/logo/logo_improve_it_screen.gif "Improve It"
+
+[mt]: http://www.improveit.com.br/en/company/tapajos
+[ii]: http://www.improveit.com.br/en
+[co]: http://www.improveit.com.br/en/contact
+[mit]: http://www.opensource.org/licenses/mit-license.php
