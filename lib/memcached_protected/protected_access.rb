@@ -1,6 +1,6 @@
 class MemcachedProtected::ProtectedAccess
   
-  MAX_KEY_SIZE = 250
+  MAX_KEY_SIZE = 247
   
   class << self
 
